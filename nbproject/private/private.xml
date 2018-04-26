@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/var/www/html/symfony2.8/src/AppBundle/Repository/MensajeRepository.php</file>
+            <file>file:/var/www/html/symfony2.8/src/AppBundle/Entity/Estado.php</file>
+            <file>file:/var/www/html/symfony2.8/src/AppBundle/Repository/VisitaRepository.php</file>
+            <file>file:/var/www/html/symfony2.8/src/AppBundle/Repository/TipoVisitaRepository.php</file>
+            <file>file:/var/www/html/symfony2.8/src/AppBundle/Controller/EstadoController.php</file>
+            <file>file:/var/www/html/symfony2.8/src/AppBundle/Controller/TipoVisitaController.php</file>
+            <file>file:/var/www/html/symfony2.8/src/AppBundle/Libs/EntityNormalizer/MensajeNormalizer.php</file>
+            <file>file:/var/www/html/symfony2.8/src/AppBundle/Resources/config/services.yml</file>
+            <file>file:/var/www/html/symfony2.8/src/AppBundle/Repository/CategoriaRepository.php</file>
+            <file>file:/var/www/html/symfony2.8/src/AppBundle/Libs/EntityNormalizer/VisitaNormalizer.php</file>
+            <file>file:/var/www/html/symfony2.8/src/AppBundle/Controller/RolController.php</file>
+            <file>file:/var/www/html/symfony2.8/src/AppBundle/Controller/MensajeController.php</file>
+            <file>file:/var/www/html/symfony2.8/app/config/parameters.yml</file>
+            <file>file:/var/www/html/symfony2.8/src/AppBundle/Repository/UsuarioRepository.php</file>
+            <file>file:/var/www/html/symfony2.8/src/AppBundle/Controller/AppController.php</file>
+            <file>file:/var/www/html/symfony2.8/src/AppBundle/Libs/Controller/BaseController.php</file>
+            <file>file:/var/www/html/symfony2.8/src/AppBundle/Repository/EstadoRepository.php</file>
+            <file>file:/var/www/html/symfony2.8/src/AppBundle/Controller/VisitaController.php</file>
+            <file>file:/var/www/html/symfony2.8/src/AppBundle/Entity/TipoVisita.php</file>
+            <file>file:/var/www/html/symfony2.8/src/AppBundle/Entity/Categoria.php</file>
+            <file>file:/var/www/html/symfony2.8/src/AppBundle/Controller/TipoTransporteController.php</file>
+            <file>file:/var/www/html/symfony2.8/src/AppBundle/Controller/CategoriaController.php</file>
+            <file>file:/var/www/html/symfony2.8/src/AppBundle/Repository/RolRepository.php</file>
+            <file>file:/var/www/html/symfony2.8/src/AppBundle/Libs/EntityNormalizer/TipoVisitaNormalizer.php</file>
+            <file>file:/var/www/html/symfony2.8/src/AppBundle/Libs/EntityNormalizer/UsuarioNormalizer.php</file>
+            <file>file:/var/www/html/symfony2.8/src/AppBundle/Listeners/BeforeControllerListener.php</file>
+            <file>file:/var/www/html/symfony2.8/src/AppBundle/Controller/SubCategoriaController.php</file>
+            <file>file:/var/www/html/symfony2.8/src/AppBundle/Libs/Repository/BaseRepository.php</file>
+        </group>
+    </open-files>
+</project-private>
